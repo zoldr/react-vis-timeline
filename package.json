@@ -75,7 +75,7 @@
     "uuid": "^7.0.0",
     "vis-data": "^7.1.0",
     "vis-timeline": "^7.7.0",
-    "vis-util": "^4.3.4"
+    "vis-util": "^5.0.3"
   },
   "peerDependencies": {
     "lodash": "^4.17.15",
